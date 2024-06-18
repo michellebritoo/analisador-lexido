@@ -1,6 +1,7 @@
 import java.io.File
 
-var content = ""
+//Autoria: Michelle Brito
+private var content = ""
 
 fun main() {
     readCode()
